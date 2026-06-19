@@ -1,0 +1,7 @@
+Monday|Idli, Sambar, Coconut Chutney|Rice, Dal Tadka, Aloo Sabzi, Roti, Salad|Tea, Marie Biscuits|Chapati, Paneer Butter Masala, Dal, Rice, Curd
+Tuesday|Poha, Banana, Milk|Rice, Rajma Curry, Mixed Veg, Roti, Pickle|Coffee, Samosa|Rice, Dal Fry, Bhindi Masala, Roti, Papad
+Wednesday|Dosa, Sambar, Coconut Chutney|Rice, Chole, Jeera Aloo, Roti, Raita|Tea, Bread Pakora|Chapati, Egg Curry / Paneer Bhurji, Dal, Rice, Salad
+Thursday|Upma, Coconut Chutney, Juice|Rice, Dal Makhani, Gobhi Sabzi, Roti|Tea, Vada|Chapati, Aloo Matar, Dal, Rice, Sweet (Halwa)
+Friday|Puri, Aloo Sabzi, Curd|Rice, Sambar, Rasam, Papad, Pickle, Payasam|Coffee, Pakora|Biryani (Veg / Egg), Raita, Salad, Appam
+Saturday|Paratha, Curd, Pickle, Lassi|Fried Rice, Gobi Manchurian, Roti, Soup|Tea, Banana|Chapati, Dal Makhani, Jeera Rice, Kheer
+Sunday|Bread, Butter, Jam, Omelette / Sprouts, Milk|Special: Veg / Chicken Biryani, Raita, Gulab Jamun|Cold Drink / Juice, Samosa|Chapati, Paneer / Egg Curry, Rice, Ice Cream

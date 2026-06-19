@@ -1,0 +1,2 @@
+admin|admin123|ADMIN|NULL
+ram|1234|STUDENT|STU001

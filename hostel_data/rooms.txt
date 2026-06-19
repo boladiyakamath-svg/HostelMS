@@ -1,0 +1,11 @@
+101|Single|3500.0|1|true
+102|Single|3500.0|1|true
+103|Double|5500.0|1|false
+104|Double|5500.0|1|true
+105|Triple|7000.0|1|true
+201|Single|3800.0|2|true
+202|Single|3800.0|2|true
+203|Double|5800.0|2|true
+204|Triple|7200.0|2|true
+301|Deluxe Single|5500.0|3|true
+302|Deluxe Double|7800.0|3|true
